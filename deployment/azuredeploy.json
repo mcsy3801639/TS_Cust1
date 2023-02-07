@@ -78,7 +78,7 @@
       "metadata": {
         "description": "The URL to the GitHub repository to deploy."
       },
-      "defaultValue": "https://github.com/runceel/microsoft-teams-apps-stickers.git"
+      "defaultValue": "https://github.com/mcsy3801639/TS_Cust1.git"
     },
     "gitBranch": {
       "type": "string",

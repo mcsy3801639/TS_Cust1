@@ -26,7 +26,7 @@
     },
     {
       "provider": "cdnjs",
-      "library": "jquery@3.6.1",
+      "library": "jquery@3.6.3",
       "destination": "lib/jquery/",
       "files": [
         "jquery.min.js",
